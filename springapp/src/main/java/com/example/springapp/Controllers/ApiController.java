@@ -1,4 +1,4 @@
-package com.example.springapp;
+package com.example.springapp.Controllers;
 
 @RestController
 public class ApiController{
